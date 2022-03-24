@@ -1,0 +1,3 @@
+[submodule "edge-impulse-linux-cli"]
+	path = edge-impulse-linux-cli
+	url = https://github.com/augustweinbren/edge-impulse-linux-cli.git
